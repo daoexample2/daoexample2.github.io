@@ -1,6 +1,6 @@
 'use strict';
 
-var PushKaWrapper = function( params )
+var PushKaWrapper = function ( params )
 {
     this.config = {
         pid             : 1,
